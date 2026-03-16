@@ -13,6 +13,14 @@ Anyone's personal resume pipeline. Inspired by many but my favourite is [this on
 5. Now create a tag that starts with `v` and push it to GitHub. This will trigger a GitHub action that will generate a release with the various versions of your resume as assets.
 6. Now you can download the various versions of your resume from the release page and access your resume at `https://<your-github-username>.github.io/resume` - note if you forked it into `doperesume` it would be `/doperesume` instead of `/resume`.
 
+Flavio edit:
+- Edit `resume.md`
+- Run locally `make convert` to generate various versions of your resume.
+- (optional) Create a tag with `git tag vX.Y`
+- Push the commit with `git add . ; git commit -m 'a'; git push (origin --tags) `
+- Run the workflow on GutHub Actions `gh workflow run`
+You will be able to access your resume at `https://<your-github-username>.github.io/resume
+
 ## dependencies
 
 Linux is the only supported OS. For other OSes you'll use `make docker`.
