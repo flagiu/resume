@@ -18,7 +18,7 @@ Flavio edit:
 - Run locally `make convert` to generate various versions of your resume.
 - (optional) Create a tag with `git tag vX.Y`
 - Push the commit with `git add . ; git commit -m 'a'; git push (origin --tags) `
-- Run the workflow on GutHub Actions `gh workflow run`
+- Run the workflow on GitHub Actions from terminal `gh workflow run` and check the status `gh run list --workflow=pipeline.yaml`
 You will be able to access your resume at `https://<your-github-username>.github.io/resume
 
 ## dependencies
