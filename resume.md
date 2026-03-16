@@ -23,7 +23,7 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 
 * Email address: [flavio.giuliani@uniroma1.it](mailto:flavio.giuliani@uniroma1.it) 
 * [My website](https://flagiu.github.io)
-* My profile on scientific databases: [Google Scholar](https://scholar.google.com/citations?user=L2xcI_IAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Flavio-Giuliani)
+* My profile on scientific databases: [Google Scholar](https://scholar.google.com/citations?user=L2xcI_IAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Flavio-Giuliani), [ORCID](https://orcid.org/0009-0003-1859-3182)
 * [My github profile](https://github.com/flagiu)
 
 
