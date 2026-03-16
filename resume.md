@@ -21,7 +21,7 @@ keywords:
 Dipartimento di Fisica, Sapienza University of Rome<br/>
 <small>P.le A. Moro 5, 00185 - Rome, Italy</small>
 
-* Email address: [flavio.giuliani@uniroma1.it](mailto:flavio.giuliani@uniroma1.it) 
+* Email address: [flagiu98@gmail.com](mailto:flagiu98@gmail.com) 
 * [My website](https://flagiu.github.io)
 * My profile on scientific databases: [Google Scholar](https://scholar.google.com/citations?user=L2xcI_IAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Flavio-Giuliani), [ORCID](https://orcid.org/0009-0003-1859-3182)
 * [My github profile](https://github.com/flagiu)
