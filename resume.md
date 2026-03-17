@@ -94,7 +94,7 @@ exercises and homework corrections (40 h)
 
 ## Conferences &amp; seminars
 
-* 2024: Attendant at ["European Phase-Change and Ovonics Symposium" (E\PCOS2024)](https://epcos2024.iom-leipzig.de/), Leibniz Institute of Surface Engineering (IOM), Leipzig, Germany
+* 2024: Attendant at ["European Phase-Change and Ovonics Symposium" (E\\PCOS2024)](https://epcos2024.iom-leipzig.de/), Leibniz Institute of Surface Engineering (IOM), Leipzig, Germany
   * Topics: Experimental and theoretical/computational advances in Phase-Change materials
 and Ovonic materials
 * 2024: Poster presentation at ["CMT@BRIXEN ‘24: The Meeting of the Condensed Matter Theory Italian
@@ -104,7 +104,7 @@ Community"](https://cmtconference.it/), Brixen, Italy.
   * [Talk: "Neural-network interatomic potential for antimony-based phase-change materials"](https://drive.google.com/file/d/16fJRW8zEEp8ibiJB5WSp17LHf3ivshQG/view), within the Flagship Project FP1 - Advanced Materials and New Devices
 * 2023: 20' informal seminar between Ph.D. and Master's students of the Physics Department, Sapienza University of Rome
   * [Talk: "Accessing large-scale molecular simulations through machine learning"](https://agenda.infn.it/event/35811/)
-* 2023: Attendant and Technical staff (management of microphones and slides) at [E\PCOS2023](http://epcos2023.artov.imm.cnr.it/), Sapienza University of Rome
+* 2023: Attendant and Technical staff (management of microphones and slides) at [E\\PCOS2023](http://epcos2023.artov.imm.cnr.it/), Sapienza University of Rome
 * 2022: Attendant at [Workshop "From Water to Colloidal Water - Celebrating the contributions of Francesco Sciortino to Soft Matter"](https://fromwatertocolloidalwater.wordpress.com/), Sapienza University of Rome
   * Topics: a) Anomalous properties of Water and amorphous ices; b) Self-assembly and DNA nanotechnology; c) Computational methods and Machine Learning for Soft Matter; d) Glasses and disordered systems; e) Soft Matter of colloids and polymers
 * 2021: Attendant at ["XXVII INC Summer School: Ultrastable Glasses - New perspectives for an old problem"](https://www.inc.uam.es/summer-school-2021-ultrastable-glases-new-perspectives-oldproblem/), organized by Instituto Nicolás Cabrera, Universidad Autónoma de Madrid, in "La Cristalera", Miraflores de la Sierra, Madrid, Spain
