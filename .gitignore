@@ -1,4 +1,4 @@
-html/
-output/
+#html/
+#output/
 *.deb
-resume-*
+#resume-*
