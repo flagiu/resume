@@ -30,7 +30,7 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 ## Education
 
 * 2022 - 2026: Ph.D. in Physics, XXXVIII ciclo, ottimo con lode (magna cum laude), Sapienza University of Rome.
-  * Thesis: [*Study of the thermodynamics and kinetic anomalies of Antimony-based phase-change materials by machine-learned molecular dynamics*](https://iris.uniroma1.it/handle/11573/1760273), supervised by Prof. R. Mazzarello and Prof. L. Boeri
+  * Thesis: [*Study of the thermodynamics and kinetic anomalies of Antimony-based phase-change materials by machine-learned molecular dynamics*](https://iris.uniroma1.it/handle/11573/1760273), supervised by Prof. Riccardo Mazzarello and Prof. Lilia Boeri
     * The thesis project involved the study of thermodynamic and kinetic anomalies and crystallization features in supercooled liquid Sb, a candidate phase-change material, and the development of a neural network interatomic potential trained on density functional theory for Ge-alloyed Sb
 
 * 2020 - 2022: Master's Degree in Physics, 110/110 e lode (magna cum laude), Sapienza University of Rome.
@@ -88,23 +88,25 @@ exercises and homework corrections (40 h)
 
 ## Conferences &amp; seminars
 
-* 2024: Participant at ["European Phase-Change and Ovonics Symposium" (E\\PCOS2024)](https://epcos2024.iom-leipzig.de/), Leibniz Institute of Surface Engineering (IOM), Leipzig, Germany
-  * Topics: Experimental and theoretical/computational advances in Phase-Change materials
-and Ovonic materials
+### Contributions
+
 * 2024: Poster presentation at ["CMT@BRIXEN ‘24: The Meeting of the Condensed Matter Theory Italian
 Community"](https://cmtconference.it/), Brixen, Italy.
   * [Poster: Ab initio study of supercooled antimony alloys through a machine learning interatomic potential](https://drive.google.com/file/d/1ff_QCEYFetBHfl1RYYs1VxXGsPwpikD5/view)
+  
 * 2024: 10' talk at the worskshop  “Multiscale Modeling and Engineering Applications”, ICSC - National Research Center in HPC, Big Data and Quantum Computing - Spoke 6, Sapienza University of Rome
   * [Talk: "Neural-network interatomic potential for antimony-based phase-change materials"](https://drive.google.com/file/d/16fJRW8zEEp8ibiJB5WSp17LHf3ivshQG/view), within the Flagship Project FP1 - Advanced Materials and New Devices
+  
 * 2023: 20' PhD Journal club seminar of the Physics Department, Sapienza University of Rome
   * [Talk: "Accessing large-scale molecular simulations through machine learning"](https://agenda.infn.it/event/35811/)
+
+### Participant
+
+* 2024: Participant at ["European Phase-Change and Ovonics Symposium" (E\\PCOS2024)](https://epcos2024.iom-leipzig.de/), Leibniz Institute of Surface Engineering (IOM), Leipzig, Germany
 * 2023: Participant and Technical staff at [E\\PCOS2023](http://epcos2023.artov.imm.cnr.it/), Sapienza University of Rome
 * 2022: Participant at [Workshop "From Water to Colloidal Water - Celebrating the contributions of Francesco Sciortino to Soft Matter"](https://fromwatertocolloidalwater.wordpress.com/), Sapienza University of Rome
-  * Topics: a) Anomalous properties of Water and amorphous ices; b) Self-assembly and DNA nanotechnology; c) Computational methods and Machine Learning for Soft Matter; d) Glasses and disordered systems; e) Soft Matter of colloids and polymers
 * 2021: Participant at ["XXVII INC Summer School: Ultrastable Glasses - New perspectives for an old problem"](https://www.inc.uam.es/summer-school-2021-ultrastable-glases-new-perspectives-oldproblem/), organized by Instituto Nicolás Cabrera, Universidad Autónoma de Madrid, in "La Cristalera", Miraflores de la Sierra, Madrid, Spain
-  * Topics: Frontiers of the experimental and theoretical/computational research on ultrastable structural glasses
-* 2020: Attendant at ["Summer School: Physics of Life"](https://youtube.com/playlist?list=PLcnlf7iLBn4PVOSEVvMgPHWLjaWNX20a6), organized by the Center for the Physics of Biological Function, Princeton University, online
-  * Topics: Active research fields in biophysics and physics of biological systems
+* 2020: Participant at ["Summer School: Physics of Life"](https://youtube.com/playlist?list=PLcnlf7iLBn4PVOSEVvMgPHWLjaWNX20a6), organized by the Center for the Physics of Biological Function, Princeton University, online
 
 ## Scientific communication for a broad audience
 
