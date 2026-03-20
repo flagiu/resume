@@ -27,11 +27,19 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 * [My github profile](https://github.com/flagiu)
 
 
-## Academic positions
+## Education
 
-* 2022 - 2025: Fellow researcher (Assegnista di ricerca), Physics Department, Sapienza University of Rome
-  * The project focused on investigating the behavior of antimony-rich phase-change materials with the tools of statistical mechanics and of atomistic simulations assisted by neural-network interatomic
-potentials. Funded in 2022/23 by *Progetti Medi Sapienza 2021*, P.I. Prof. Riccardo Mazzarello, and in 2023/25 by *Progetto PRIN 2020 - EMPHASIS*, P.I. Prof. Riccardo Mazzarello.
+* 2022 - 2026: Ph.D. in Physics, XXXVIII ciclo, ottimo con lode (magna cum laude), Sapienza University of Rome.
+  * Thesis: [*Study of the thermodynamics and kinetic anomalies of Antimony-based phase-change materials by machine-learned molecular dynamics*](https://iris.uniroma1.it/handle/11573/1760273), supervised by Prof. R. Mazzarello and Prof. L. Boeri
+    * The thesis project involved the study of thermodynamic and kinetic anomalies and crystallization features in supercooled liquid Sb, a candidate phase-change material, and the development of a neural network interatomic potential trained on density functional theory for Ge-alloyed Sb
+
+* 2020 - 2022: Master's Degree in Physics, 110/110 e lode (magna cum laude), Sapienza University of Rome.
+  * Thesis: *Vibrational dynamics of simulated glasses with different fictive temperatures*, supervised by Prof. Tullio Scopigno and Prof. Francesco Sciortino
+    * The aim of the thesis project was to assess the correlation between supercooled liquid viscosity and glass vibrational properties for a prototype fragile glass former: the rigid model of ortho-terphenyl
+
+* 2017 - 2020: Bachelor's Degree in Physics, 110/110 e lode (magna cum laude), Sapienza University of Rome
+  * Thesis: *Twitching motility in bacteria*, supervised by Prof. Roberto Di Leonardo
+    * The thesis project consisted in reproducing a tug-of-war physical model for simulating the twitching dynamics of a bacterium on a surface, mediated by the adhesion and retraction of type-IV pili
 
 ## Publications
 
@@ -40,17 +48,6 @@ I have published 2 articles in international peer-reviewed scientific journals. 
 1. [F. Giuliani, F. G. Mattioli, Y. Chen, D. Baratella, D. Dragoni, M. Bernasconi, J. Russo, L. Boeri, R. Mazzarello, "Liquid anomalies and fragility of supercooled antimony", Accepted on *PNAS* (2026)](https://arxiv.org/abs/2510.25920)
 2. [S. Ritarossi, R. Piombo, F. Giuliani, D. Dragoni, M. Bernasconi, R. Mazzarello, "Phase-Change Heterostructures Based on Antimony
 ", *Phys. Status Solidi RRL* **19** (7), 2500012 (2025)](https://doi.org/10.1002/pssr.202500012)
-
-## Education
-
-* 2022 - 2026: Ph.D. in Physics, ottimo con lode (magna cum laude), Sapienza University of Rome
-  * The [thesis project](https://iris.uniroma1.it/handle/11573/1760273) involved the study of thermodynamic and kinetic anomalies and crystallization features in supercooled liquid Sb, a candidate phase-change material, and the development of a neural network interatomic potential trained on density functional theory for Ge-alloyed Sb. Supervised by Prof. Riccardo Mazzarello and Prof. Lilia Boeri
-
-* 2020 - 2022: Master's Degree in Physics, 110/110 e lode (magna cum laude), Sapienza University of Rome
-  * The aim of the thesis project was to assess the correlation between supercooled liquid viscosity and glass vibrational properties for a prototype fragile glass former: the rigid model for ortho-terphenyl. Supervised by Prof. Tullio Scopigno and Prof. Francesco Sciortino
-
-* 2017 - 2020: Bachelor's Degree in Physics, 110/110 e lode (magna cum laude), Sapienza University of Rome
-  * The thesis project consisted in reproducing a tug-of-war physical model for simulating the twitching dynamics of a bacterium on a surface, mediated by the adhesion and retraction of type-IV pili. Supervised by Prof. Roberto Di Leonardo.
 
 ## Teaching
 
@@ -78,23 +75,20 @@ exercises and homework corrections (40 h)
 ### Other grants
 
 * 2025: €11k grant for the University call for Starting Third Mission initiatives, Sapienza University of Rome
-  * Title: *Eutopie - Dialogues on the relationship between science and society for a research on human beings*
+  * Title: [*Eutopie - Dialogues on the relationship between science and society for a research on human beings*](https://sites.google.com/view/eutopie)
   * Role: Proponent and Head of Organization. I oversaw the entire organizational cycle: format design, selection of interdisciplinary topics, research and involvement of 15+ high-profile experts, logistics management, communication, and feedback analysis through questionnaires.
   * Objective and implementation: The project created an open space for multidisciplinary debate in the university to address major contemporary social challenges, promoting collective involvement through four public dialogues on: 1) Man, nature, and the climate crisis; 2) Science, women, and rights; 3) Human language and artificial intelligence; 4) Research and imagination in art and science.
 
 ## Awards
 
-* 2022: [Excellence program](https://www.phys.uniroma1.it/it/percorsi-di-eccellenza) of  Master's Degree in Physics, Sapienza University of Rome
-  * Awarded to top students based on exam marks. The scolarship value was equal to the university fee of the second year.<br/>
-  In the context of "Physics of liquids" with Prof. F. Sciortino, I studied with the microscopic derivation of hydrodynamics equations from the formalism of projection operators, with a final report.<br/>
-  In the context of "Advanced machine learning methods for physics" with Prof. S. Giagu , I studied Variational Diffusion Models and implemented a simple model for image generation in the final project.
-* 2020: [Excellence program](https://www.phys.uniroma1.it/it/percorsi-di-eccellenza) of  Bachelor's Degree in Physics, Sapienza University of Rome
-  * Awarded to top students based on exam marks. The scolarship value was equal to the university fee of the second year.<br/>
-  I attended in-depth courses on selected topics: Electromagnetism, Partial Differential Equations in physics, Monte Carlo simulations (with a final project), Bayesian inference (with a final project).
+* 2022: [Excellence program scholarship](https://www.phys.uniroma1.it/it/percorsi-di-eccellenza) of  Master's Degree in Physics, Sapienza University of Rome
+  * Awarded to top 15 students based on exam marks
+* 2020: [Excellence program scolarship](https://www.phys.uniroma1.it/it/percorsi-di-eccellenza) of Bachelor's Degree in Physics, Sapienza University of Rome
+  * Awarded to top 34 students based on exam marks
 
 ## Conferences &amp; seminars
 
-* 2024: Attendant at ["European Phase-Change and Ovonics Symposium" (E\\PCOS2024)](https://epcos2024.iom-leipzig.de/), Leibniz Institute of Surface Engineering (IOM), Leipzig, Germany
+* 2024: Participant at ["European Phase-Change and Ovonics Symposium" (E\\PCOS2024)](https://epcos2024.iom-leipzig.de/), Leibniz Institute of Surface Engineering (IOM), Leipzig, Germany
   * Topics: Experimental and theoretical/computational advances in Phase-Change materials
 and Ovonic materials
 * 2024: Poster presentation at ["CMT@BRIXEN ‘24: The Meeting of the Condensed Matter Theory Italian
@@ -102,12 +96,12 @@ Community"](https://cmtconference.it/), Brixen, Italy.
   * [Poster: Ab initio study of supercooled antimony alloys through a machine learning interatomic potential](https://drive.google.com/file/d/1ff_QCEYFetBHfl1RYYs1VxXGsPwpikD5/view)
 * 2024: 10' talk at the worskshop  “Multiscale Modeling and Engineering Applications”, ICSC - National Research Center in HPC, Big Data and Quantum Computing - Spoke 6, Sapienza University of Rome
   * [Talk: "Neural-network interatomic potential for antimony-based phase-change materials"](https://drive.google.com/file/d/16fJRW8zEEp8ibiJB5WSp17LHf3ivshQG/view), within the Flagship Project FP1 - Advanced Materials and New Devices
-* 2023: 20' informal seminar between Ph.D. and Master's students of the Physics Department, Sapienza University of Rome
+* 2023: 20' PhD Journal club seminar of the Physics Department, Sapienza University of Rome
   * [Talk: "Accessing large-scale molecular simulations through machine learning"](https://agenda.infn.it/event/35811/)
-* 2023: Attendant and Technical staff (management of microphones and slides) at [E\\PCOS2023](http://epcos2023.artov.imm.cnr.it/), Sapienza University of Rome
-* 2022: Attendant at [Workshop "From Water to Colloidal Water - Celebrating the contributions of Francesco Sciortino to Soft Matter"](https://fromwatertocolloidalwater.wordpress.com/), Sapienza University of Rome
+* 2023: Participant and Technical staff at [E\\PCOS2023](http://epcos2023.artov.imm.cnr.it/), Sapienza University of Rome
+* 2022: Participant at [Workshop "From Water to Colloidal Water - Celebrating the contributions of Francesco Sciortino to Soft Matter"](https://fromwatertocolloidalwater.wordpress.com/), Sapienza University of Rome
   * Topics: a) Anomalous properties of Water and amorphous ices; b) Self-assembly and DNA nanotechnology; c) Computational methods and Machine Learning for Soft Matter; d) Glasses and disordered systems; e) Soft Matter of colloids and polymers
-* 2021: Attendant at ["XXVII INC Summer School: Ultrastable Glasses - New perspectives for an old problem"](https://www.inc.uam.es/summer-school-2021-ultrastable-glases-new-perspectives-oldproblem/), organized by Instituto Nicolás Cabrera, Universidad Autónoma de Madrid, in "La Cristalera", Miraflores de la Sierra, Madrid, Spain
+* 2021: Participant at ["XXVII INC Summer School: Ultrastable Glasses - New perspectives for an old problem"](https://www.inc.uam.es/summer-school-2021-ultrastable-glases-new-perspectives-oldproblem/), organized by Instituto Nicolás Cabrera, Universidad Autónoma de Madrid, in "La Cristalera", Miraflores de la Sierra, Madrid, Spain
   * Topics: Frontiers of the experimental and theoretical/computational research on ultrastable structural glasses
 * 2020: Attendant at ["Summer School: Physics of Life"](https://youtube.com/playlist?list=PLcnlf7iLBn4PVOSEVvMgPHWLjaWNX20a6), organized by the Center for the Physics of Biological Function, Princeton University, online
   * Topics: Active research fields in biophysics and physics of biological systems
