@@ -43,9 +43,9 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 
 ## Publications
 
-I have published 2 articles in international peer-reviewed scientific journals. I am first author of 1 of those publications, on the high-Impact Factor (IF) journal "Proceedings of the National Academy of Sciences" (PNAS, IF: 9.1).
+I have published 2 articles in international peer-reviewed scientific journals. I am first author of 1 of those publications, on the high-Impact Factor (IF) journal "Proceedings of the National Academy of Sciences U.S.A." (PNAS U.S.A., IF: 9.1).
 
-1. [F. Giuliani, F. G. Mattioli, Y. Chen, D. Baratella, D. Dragoni, M. Bernasconi, J. Russo, L. Boeri, R. Mazzarello, "Liquid anomalies and fragility of supercooled antimony", Accepted on *PNAS* (2026)](https://arxiv.org/abs/2510.25920)
+1. [F. Giuliani, F. G. Mattioli, Y. Chen, D. Baratella, D. Dragoni, M. Bernasconi, J. Russo, L. Boeri & R. Mazzarello, "Liquid anomalies and fragility of supercooled antimony", PNAS U.S.A. 123 (12) e2531605123, DOI: 10.1073/pnas.2531605123 (2026)](https://arxiv.org/abs/2510.25920)
 2. [S. Ritarossi, R. Piombo, F. Giuliani, D. Dragoni, M. Bernasconi, R. Mazzarello, "Phase-Change Heterostructures Based on Antimony
 ", *Phys. Status Solidi RRL* **19** (7), 2500012 (2025)](https://doi.org/10.1002/pssr.202500012)
 
