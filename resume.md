@@ -21,11 +21,9 @@ keywords:
 Dipartimento di Fisica, Sapienza University of Rome<br/>
 <small>P.le A. Moro 5, 00185 - Rome, Italy</small>
 
-* Email address: [flagiu98@gmail.com](mailto:flagiu98@gmail.com) 
-* [My website](https://flagiu.github.io)
 * My profile on scientific databases: [Google Scholar](https://scholar.google.com/citations?user=L2xcI_IAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Flavio-Giuliani), [ORCID](https://orcid.org/0009-0003-1859-3182)
-* [My github profile](https://github.com/flagiu)
-
+* My github profile: [github.com/flagiu](https://github.com/flagiu)
+* My website: [flagiu.github.io](https://flagiu.github.io)
 
 ## Education
 
@@ -110,11 +108,11 @@ Community"](https://cmtconference.it/), Brixen, Italy.
 
 ## Scientific communication for a broad audience
 
-* 2025: [Talk for the book presentation "L'atomica e le responsabilità della scienza"](https://www.youtube.com/live/eeGNIZca1Vk), organized by L'Asino d'oro Edizioni at Libreria Spazio Sette, Rome.
+* 2025: Talk for the book presentation "L'atomica e le responsabilità della scienza, organized by L'Asino d'oro Edizioni at Libreria Spazio Sette, Rome.
 
 ## Volunteering
 
-* 2019: Co-founder of ["STudy to transfORM" (ST.ORM)](https://www.instagram.com/stormprojectonlus), a nonprofit organization whose educational projects currently span across Italy, Kenya and Tanzania. I was active as the Treasurer for the first year.
+* 2019: Co-founder of ["STudy to transfORM" (ST.ORM)](https://www.instagram.com/stormprojectonlus), a nonprofit organization whose educational projects currently span across Italy, Kenya and Tanzania.
 
 * 2019: For about one year, I taught math and sciences to refugees within the activities of the non-profit organization ["Baobab Experience"](https://www.baobabexperience.org/services/scuola-di-ali/) in Rome.
 
