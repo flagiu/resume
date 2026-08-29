@@ -22,26 +22,25 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 <small>P.le A. Moro 5, 00185 - Rome, Italy</small>
 
 * My profile on scientific databases: [Google Scholar](https://scholar.google.com/citations?user=L2xcI_IAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Flavio-Giuliani), [ORCID](https://orcid.org/0009-0003-1859-3182)
-* My github profile: [github.com/flagiu](https://github.com/flagiu)
-* My website: [flagiu.github.io](https://flagiu.github.io)
+* My GitHub profile and my personal website: [github.com/flagiu](https://github.com/flagiu) [flagiu.github.io](https://flagiu.github.io)
 
 ## Education
 
-* 2022 - 2026: Ph.D. in Physics, XXXVIII ciclo, ottimo con lode (magna cum laude), Sapienza University of Rome.
+* 2022 - 2026: Ph.D. in Physics, XXXVIII ciclo, ottimo con lode (maximum grade with honors), Sapienza University of Rome.
   * Thesis: [*Study of the thermodynamics and kinetic anomalies of Antimony-based phase-change materials by machine-learned molecular dynamics*](https://iris.uniroma1.it/handle/11573/1760273), supervised by Prof. Riccardo Mazzarello and Prof. Lilia Boeri
     * The thesis project involved the study of thermodynamic and kinetic anomalies and crystallization features in supercooled liquid Sb, a candidate phase-change material, and the development of a neural network interatomic potential trained on density functional theory for Ge-alloyed Sb
 
-* 2020 - 2022: Master's Degree in Physics, 110/110 e lode (magna cum laude), Sapienza University of Rome.
+* 2020 - 2022: Master's Degree in Physics, 110/110 e lode (maximum grade with honors), Sapienza University of Rome.
   * Thesis: *Vibrational dynamics of simulated glasses with different fictive temperatures*, supervised by Prof. Tullio Scopigno and Prof. Francesco Sciortino
     * The aim of the thesis project was to assess the correlation between supercooled liquid viscosity and glass vibrational properties for a prototype fragile glass former: the rigid model of ortho-terphenyl
 
-* 2017 - 2020: Bachelor's Degree in Physics, 110/110 e lode (magna cum laude), Sapienza University of Rome
+* 2017 - 2020: Bachelor's Degree in Physics, 110/110 e lode (maximum grade with honors), Sapienza University of Rome
   * Thesis: *Twitching motility in bacteria*, supervised by Prof. Roberto Di Leonardo
     * The thesis project consisted in reproducing a tug-of-war physical model for simulating the twitching dynamics of a bacterium on a surface, mediated by the adhesion and retraction of type-IV pili
 
 ## Publications
 
-I have published 2 articles in international peer-reviewed scientific journals. I am first author of 1 of those publications, on the high-Impact Factor (IF) journal "Proceedings of the National Academy of Sciences U.S.A." (PNAS U.S.A., IF: 9.1).
+I have published 2 articles in international peer-reviewed scientific journals. I am the first author of 1 of those publications, on the high-Impact Factor (IF) journal "Proceedings of the National Academy of Sciences U.S.A." (PNAS U.S.A., IF: 9.1).
 
 1. [F. Giuliani, F. G. Mattioli, Y. Chen, D. Baratella, D. Dragoni, M. Bernasconi, J. Russo, L. Boeri & R. Mazzarello, "Liquid anomalies and fragility of supercooled antimony", PNAS U.S.A. 123 (12) e2531605123, DOI: 10.1073/pnas.2531605123 (2026)](https://arxiv.org/abs/2510.25920)
 2. [S. Ritarossi, R. Piombo, F. Giuliani, D. Dragoni, M. Bernasconi, R. Mazzarello, "Phase-Change Heterostructures Based on Antimony
@@ -58,23 +57,23 @@ exercises and homework corrections (40 h)
 
 * 2024: Course ["HPC Molecular Modelling"](https://eventi.cineca.it/en/hpc/hpc-molecular-modelling), three-days lessons and hands-on at CINECA, Rome
 * 2022 - 2023: Within my Ph.D. education, Sapienza University of Rome
-  * "Statistical Field Theory" (40 h, 6 credits) by Prof. A. Cavagna, 30/30 e lode (magna cum laude)
-  * "Advanced Topics in Condensed Matter" (40 h, 6 credits) by Prof. J. Lorenzana and Dr. and Dr. P. Barone, 30/30 con lode (magna cum laude)
+  * "Statistical Field Theory" (40 h, 6 credits) by Dr. A. Cavagna, 30/30 e lode (maximum grade with honors)
+  * "Advanced Topics in Condensed Matter" (40 h, 6 credits) by Prof. J. Lorenzana and Dr. P. Barone, 30/30 con lode (maximum grade with honors)
   * Soft-skills course "Preparing artwork for scientific papers" by Prof. G. Giardina
   * Soft-skills online courses "I principali programmi europei di finanziamento R&I", "Etica e Scienza", "Fare start-up in Sapienza, istruzioni per l’uso" and "Publications and research data: Open Access"
 
 ## Grants
 
 ### High-Performance Computing (HPC) resources
-* 2025: 20k GPUh grant as Principal Investigator (P.I.) of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "LIGAN: LIquid-liquid transition in Germanium-doped Antimony with a Neural-network interaction potential" for the Leonardo supercomputer
-* 2024: 20k GPUh grant as P.I. of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "AntimoNN: Neural-Network interaction potential for Antimony-based phase-change materials" for the Leonardo supercomputer
-* 2023: 23333 CPUh grant as P.I. of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "DAGAN: First-principles DAtaset of Germanium-Antimony for a Neural-network interaction potential" for the G100 supercomputer
+* 2025: 20k GPUh grant as Principal Investigator (PI) of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "LIGAN: LIquid-liquid transition in Germanium-doped Antimony with a Neural-network interaction potential" for CINECA's Leonardo supercomputer
+* 2024: 20k GPUh grant as PI of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "AntimoNN: Neural-Network interaction potential for Antimony-based phase-change materials" for CINECA's Leonardo supercomputer
+* 2023: 23333 CPUh grant as PI of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "DAGAN: First-principles DAtaset of Germanium-Antimony for a Neural-network interaction potential" for CINECA's G100 supercomputer
 
 ### Other grants
 
 * 2025: €11k grant for the University call for Starting Third Mission initiatives, Sapienza University of Rome
   * Title: [*Eutopie - Dialogues on the relationship between science and society for a research on human beings*](https://sites.google.com/view/eutopie)
-  * Role: Proponent and Head of Organization. I oversaw the entire organizational cycle: format design, selection of interdisciplinary topics, research and involvement of 15+ high-profile experts, logistics management, communication, and feedback analysis through questionnaires.
+  * Role: Proponent and Head of Organization. I oversaw the entire organization cycle: format design, selection of interdisciplinary topics, research and involvement of 15+ high-profile experts, logistics management, communication, and feedback analysis through questionnaires.
   * Objective and implementation: The project created an open space for multidisciplinary debate in the university to address major contemporary social challenges, promoting collective involvement through four public dialogues on: 1) Man, nature, and the climate crisis; 2) Science, women, and rights; 3) Human language and artificial intelligence; 4) Research and imagination in art and science.
 
 ## Awards
@@ -108,13 +107,13 @@ Community"](https://cmtconference.it/), Brixen, Italy.
 
 ## Scientific communication for a broad audience
 
-* 2025: Talk for the book presentation "L'atomica e le responsabilità della scienza, organized by L'Asino d'oro Edizioni at Libreria Spazio Sette, Rome.
+* 2025: Talk for the book presentation "L'atomica e le responsabilità della scienza, organized by L'Asino d'oro Edizioni at Libreria Spazio Sette, Rome
 
 ## Volunteering
 
-* 2019: Co-founder of ["STudy to transfORM" (ST.ORM)](https://www.instagram.com/stormprojectonlus), a nonprofit organization whose educational projects currently span across Italy, Kenya and Tanzania.
+* 2019: Co-founder of "STudy to transfORM" (ST.ORM) ([website](https://stormproject.org/), [Instagram](https://www.instagram.com/stormprojectonlus)), a nonprofit organization whose educational projects currently span across Italy, Kenya and Tanzania
 
-* 2019: For about one year, I taught math and sciences to refugees within the activities of the non-profit organization ["Baobab Experience"](https://www.baobabexperience.org/services/scuola-di-ali/) in Rome.
+* 2019: For about one year, I taught math and sciences to refugees within the activities of the non-profit organization ["Baobab Experience"](https://www.baobabexperience.org/services/scuola-di-ali/) in Rome
 
 ## Personal skills
 
