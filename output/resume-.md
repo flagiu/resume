@@ -26,15 +26,15 @@ Dipartimento di Fisica, Sapienza University of Rome<br/>
 
 ## Education
 
-* 2022 - 2026: Ph.D. in Physics, XXXVIII ciclo, ottimo con lode (maximum grade with honors), Sapienza University of Rome.
+* 2022 - 2026: **Ph.D. in Physics**, XXXVIII ciclo, ottimo con lode (maximum grade with honors), Sapienza University of Rome.
   * Thesis: [*Study of the thermodynamics and kinetic anomalies of Antimony-based phase-change materials by machine-learned molecular dynamics*](https://iris.uniroma1.it/handle/11573/1760273), supervised by Prof. Riccardo Mazzarello and Prof. Lilia Boeri
     * The thesis project involved the study of thermodynamic and kinetic anomalies and crystallization features in supercooled liquid Sb, a candidate phase-change material, and the development of a neural network interatomic potential trained on density functional theory for Ge-alloyed Sb
 
-* 2020 - 2022: Master's Degree in Physics, 110/110 e lode (maximum grade with honors), Sapienza University of Rome.
+* 2020 - 2022: **Master's Degree in Physics**, 110/110 e lode (maximum grade with honors), Sapienza University of Rome.
   * Thesis: *Vibrational dynamics of simulated glasses with different fictive temperatures*, supervised by Prof. Tullio Scopigno and Prof. Francesco Sciortino
     * The aim of the thesis project was to assess the correlation between supercooled liquid viscosity and glass vibrational properties for a prototype fragile glass former: the rigid model of ortho-terphenyl
 
-* 2017 - 2020: Bachelor's Degree in Physics, 110/110 e lode (maximum grade with honors), Sapienza University of Rome
+* 2017 - 2020: **Bachelor's Degree in Physics**, 110/110 e lode (maximum grade with honors), Sapienza University of Rome
   * Thesis: *Twitching motility in bacteria*, supervised by Prof. Roberto Di Leonardo
     * The thesis project consisted in reproducing a tug-of-war physical model for simulating the twitching dynamics of a bacterium on a surface, mediated by the adhesion and retraction of type-IV pili
 
@@ -48,10 +48,10 @@ I have published 2 articles in international peer-reviewed scientific journals. 
 
 ## Teaching
 
-* 2024: Teaching Assistant for "Mathematics and Statistics", Bachelor's Degree in Environmental Sciences, Sapienza University of Rome. Interactive
+* 2024: **Teaching Assistant** for "Mathematics and Statistics", Bachelor's Degree in Environmental Sciences, Sapienza University of Rome. Interactive
 exercises and homework corrections (40 h)
 * 2023: [1 h lecture "Machine learning interatomic potentials"](https://docs.google.com/presentation/d/1pnzw14_9cflyDWysmDHNTMA0tHmIf_BU/view)  for the course "Computing Methods for Physics" of Master's Degree in Physics by Prof. L. Boeri, Sapienza University of Rome
-* 2021, 2022: Student-collaboration scholarship for Scientific Programming in C ("Laboratorio di Calcolo"), Bachelor's Degree in Physics, Sapienza University of Rome. Laboratory assistant and notes-writer (75 h/year)
+* 2021, 2022: **Student-collaboration scholarship** for Scientific Programming in C ("Laboratorio di Calcolo"), Bachelor's Degree in Physics, Sapienza University of Rome. Laboratory assistant and notes-writer (75 h/year)
 
 ## Certified advanced and soft-skill courses
 
@@ -65,16 +65,16 @@ exercises and homework corrections (40 h)
 ## Grants
 
 ### High-Performance Computing (HPC) resources
-* 2025: 20k GPUh grant as Principal Investigator (PI) of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "LIGAN: LIquid-liquid transition in Germanium-doped Antimony with a Neural-network interaction potential" for CINECA's Leonardo supercomputer
-* 2024: 20k GPUh grant as PI of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "AntimoNN: Neural-Network interaction potential for Antimony-based phase-change materials" for CINECA's Leonardo supercomputer
-* 2023: 23333 CPUh grant as PI of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "DAGAN: First-principles DAtaset of Germanium-Antimony for a Neural-network interaction potential" for CINECA's G100 supercomputer
+* 2025: **20k GPUh grant** as Principal Investigator (PI) of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "LIGAN: LIquid-liquid transition in Germanium-doped Antimony with a Neural-network interaction potential" for CINECA's Leonardo supercomputer
+* 2024: **20k GPUh grant** as PI of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "AntimoNN: Neural-Network interaction potential for Antimony-based phase-change materials" for CINECA's Leonardo supercomputer
+* 2023: **23333 CPUh grant** as PI of the [ISCRA-C project](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) "DAGAN: First-principles DAtaset of Germanium-Antimony for a Neural-network interaction potential" for CINECA's G100 supercomputer
 
 ### Other grants
 
-* 2025: €11k grant for the University call for Starting Third Mission initiatives, Sapienza University of Rome
+* 2025: **€11k grant for the University call for Starting Third Mission initiatives**, Sapienza University of Rome
   * Title: [*Eutopie - Dialogues on the relationship between science and society for a research on human beings*](https://sites.google.com/view/eutopie)
   * Role: Proponent and Head of Organization. I oversaw the entire organization cycle: format design, selection of interdisciplinary topics, research and involvement of 15+ high-profile experts, logistics management, communication, and feedback analysis through questionnaires.
-  * Objective and implementation: The project created an open space for multidisciplinary debate in the university to address major contemporary social challenges, promoting collective involvement through four public dialogues on: 1) Man, nature, and the climate crisis; 2) Science, women, and rights; 3) Human language and artificial intelligence; 4) Research and imagination in art and science.
+  * Objective and implementation: The project created an open space for multidisciplinary debate in the university to address major contemporary social challenges, promoting collective involvement through four public dialogues on: 1) Climate crisis and human-nature relationship; 2) Science, women, and rights; 3) Human language and artificial intelligence; 4) Research and imagination in art and science.
 
 ## Awards
 
@@ -87,14 +87,14 @@ exercises and homework corrections (40 h)
 
 ### Contributions
 
-* 2024: Poster presentation at ["CMT@BRIXEN ‘24: The Meeting of the Condensed Matter Theory Italian
+* 2024: **Poster** presentation at ["CMT@BRIXEN ‘24: The Meeting of the Condensed Matter Theory Italian
 Community"](https://cmtconference.it/), Brixen, Italy.
   * [Poster: Ab initio study of supercooled antimony alloys through a machine learning interatomic potential](https://drive.google.com/file/d/1ff_QCEYFetBHfl1RYYs1VxXGsPwpikD5/view)
   
-* 2024: 10' talk at the worskshop  “Multiscale Modeling and Engineering Applications”, ICSC - National Research Center in HPC, Big Data and Quantum Computing - Spoke 6, Sapienza University of Rome
+* 2024: **10' talk** at the worskshop  “Multiscale Modeling and Engineering Applications”, ICSC - National Research Center in HPC, Big Data and Quantum Computing - Spoke 6, Sapienza University of Rome
   * [Talk: "Neural-network interatomic potential for antimony-based phase-change materials"](https://drive.google.com/file/d/16fJRW8zEEp8ibiJB5WSp17LHf3ivshQG/view), within the Flagship Project FP1 - Advanced Materials and New Devices
   
-* 2023: 20' PhD Journal club seminar of the Physics Department, Sapienza University of Rome
+* 2023: **20' talk** at the PhD Journal club seminar of the Physics Department, Sapienza University of Rome
   * [Talk: "Accessing large-scale molecular simulations through machine learning"](https://agenda.infn.it/event/35811/)
 
 ### Participant
