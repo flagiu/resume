@@ -56,7 +56,7 @@ exercises and homework corrections (40 h)
 ## Certified advanced and soft-skill courses
 
 * 2024: Course ["HPC Molecular Modelling"](https://eventi.cineca.it/en/hpc/hpc-molecular-modelling), three-days lessons and hands-on at CINECA, Rome
-* 2022 - 2023: Within my Ph.D. education, Sapienza University of Rome
+* 2022 - 2023: Within my Ph.D. education, Sapienza University of Rome:
   * "Statistical Field Theory" (40 h, 6 credits) by Dr. A. Cavagna, 30/30 e lode (maximum grade with honors)
   * "Advanced Topics in Condensed Matter" (40 h, 6 credits) by Prof. J. Lorenzana and Dr. P. Barone, 30/30 con lode (maximum grade with honors)
   * Soft-skills course "Preparing artwork for scientific papers" by Prof. G. Giardina
@@ -115,7 +115,7 @@ Community"](https://cmtconference.it/), Brixen, Italy.
 
 * 2019: For about one year, I taught math and sciences to refugees within the activities of the non-profit organization ["Baobab Experience"](https://www.baobabexperience.org/services/scuola-di-ali/) in Rome
 
-## Personal skills
+## Other
 
 * Language: Italian (native), English (B2), Spanish (A2)
 * Driving license: Italian B
